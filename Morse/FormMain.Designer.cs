@@ -89,7 +89,7 @@
             this.openFileToolStripMenuItem.Name = "openFileToolStripMenuItem";
             this.openFileToolStripMenuItem.Size = new System.Drawing.Size(98, 20);
             this.openFileToolStripMenuItem.Text = "Открыть файл";
-            this.openFileToolStripMenuItem.Click += new System.EventHandler(this.openFileToolStripMenuItem_Click);
+            this.openFileToolStripMenuItem.Click += new System.EventHandler(this.OpenFileToolStripMenuItem_Click);
             // 
             // SaveInFileToolStripMenuItem
             // 
@@ -103,7 +103,7 @@
             this.озвучитьToolStripMenuItem.Name = "озвучитьToolStripMenuItem";
             this.озвучитьToolStripMenuItem.Size = new System.Drawing.Size(70, 20);
             this.озвучитьToolStripMenuItem.Text = "Озвучить";
-            this.озвучитьToolStripMenuItem.Click += new System.EventHandler(this.озвучитьToolStripMenuItem_Click);
+            this.озвучитьToolStripMenuItem.Click += new System.EventHandler(this.VoiceOverToolStripMenuItem_Click);
             // 
             // flowLayoutPanelRussianKeyBoard
             // 

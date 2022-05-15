@@ -101,8 +101,8 @@ namespace Morse
             }
             textBoxResult.Text = resultString;
         }
-
-        private void openFileToolStripMenuItem_Click(object sender, EventArgs e)
+        //открытие текстового файла
+        private void OpenFileToolStripMenuItem_Click(object sender, EventArgs e)
         {
             string path;
             using (OpenFileDialog openFileDialog = new OpenFileDialog())
@@ -123,7 +123,7 @@ namespace Morse
                 }
             }
         }
-
+        // сохранение в текстовый файл
         private void SaveInFileToolStripMenuItem_Click(object sender, EventArgs e)
         {
             string path;
@@ -200,7 +200,7 @@ namespace Morse
             Console.Beep(440, 800);
         }
 
-        private void озвучитьToolStripMenuItem_Click(object sender, EventArgs e)
+        private void VoiceOverToolStripMenuItem_Click(object sender, EventArgs e)
         {
             foreach (var letter in textBoxResult.Text)
             {
