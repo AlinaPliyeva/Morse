@@ -27,5 +27,5 @@
 -Запись в текстовые файлы (txt / doc / docx)  
 
 
-[Текст курсовой](https://docs.google.com/document/d/1RzdqmM2QBjOzqxwAmLX6KXZ6xRGpiGFZQoSsKJSV7fA/edit?usp=sharing)
+[Текст курсовой](https://docs.google.com/document/d/1RzdqmM2QBjOzqxwAmLX6KXZ6xRGpiGFZQoSsKJSV7fA/edit?usp=sharing)  
 [Презентация](https://docs.google.com/presentation/d/125KnPC9RFu043y2P60y5lQuvif7TOp-du20Iwnn2z30/edit?usp=sharing)
